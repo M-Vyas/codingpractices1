@@ -1,0 +1,21 @@
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height:100vh;
+}
+.card1{
+    background-color:white;
+    padding:50px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    text-align: justify;
+    height:30vh;
+    overflow:none;
+}
+.btn{
+    background-color: rgb(2, 2, 37);
+    border-radius:5px;
+    text-align: center;
+    height:30px;
+    width:100px;
+}

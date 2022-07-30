@@ -1,0 +1,35 @@
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    height:100vh;
+    background-size:cover;
+    
+}
+.todo{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+.text{
+    text-align: center;
+    color:white;
+}
+.btn{
+    color: white;
+    border-radius: 0px;
+    margin-left: 500px;
+    
+
+
+}
+.final{
+    text-align: center;
+    text-decoration: underline;
+    color:white
+}
+.paragraph{
+    color:white;
+    text-align: justify;
+}
+.paragraph2{
+    color:white;
+}

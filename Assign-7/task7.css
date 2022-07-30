@@ -1,0 +1,29 @@
+.bg-color{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+    height: 150vh;
+}
+.img{
+    height:50vh;
+    width:50vw;
+    margin-left: 300px;
+}
+.text{
+    color: white;
+    margin-left: 300px;
+}
+.btn{
+    margin-left: 900px;
+    background-color: white;
+    border-radius:10px;
+
+}
+.img1{
+    height:20vh;
+    width:10vw;
+    
+    margin-left: 300px;
+    
+    
+    
+}
